@@ -4,3 +4,5 @@
 --
 local opt = vim.opt
 opt.wrap = true
+
+vim.o.guifont = "FiraCode Nerd Font:h10" -- text below applies for VimScript
